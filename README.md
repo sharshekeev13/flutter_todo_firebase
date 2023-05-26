@@ -1,16 +1,11 @@
-# flutter_todo_firebase
 
-A new Flutter project.
+# Flutter Todo App With Firebase
 
-## Getting Started
+A simple todo application written in Dart/Flutter using Firebase.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/sharshekeev13/flutter_todo_firebase/blob/main/screens/1.jpg?raw=true)
+![App Screenshot](https://github.com/sharshekeev13/flutter_todo_firebase/blob/main/screens/2.jpg?raw=true)
+![App Screenshot](https://github.com/sharshekeev13/flutter_todo_firebase/blob/main/screens/3.jpg?raw=true)
