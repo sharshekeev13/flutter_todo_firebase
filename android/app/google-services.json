@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949974426022",
+    "project_id": "todo-firestore-f8379",
+    "storage_bucket": "todo-firestore-f8379.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949974426022:android:ea1c72bd59e3f89679ef67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRboDZSSgI29UajA_J316yBLKpdNSaeRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
