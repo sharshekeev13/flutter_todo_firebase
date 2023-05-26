@@ -4,7 +4,7 @@
 
 <h2 align="center"> Preview </h2>
 
-| ![screen1](https://raw.githubusercontent.com/sharshekeev13/flutter_todo_firebase/main/screens/1.jpg) | ![screen2](https://raw.githubusercontent.com/sharshekeev13/flutter_todo_firebase/main/screens/2.jpg)) | ![screen3](https://raw.githubusercontent.com/sharshekeev13/flutter_todo_firebase/main/screens/3.jpg)) |
+| ![screen1](https://raw.githubusercontent.com/sharshekeev13/flutter_todo_firebase/main/screens/1.jpg) | ![screen2](https://raw.githubusercontent.com/sharshekeev13/flutter_todo_firebase/main/screens/2.jpg) | ![screen3](https://raw.githubusercontent.com/sharshekeev13/flutter_todo_firebase/main/screens/3.jpg) |
 | :------------: | :------------: | :------------: |
 <h2 align="center"> How to run </h2>
 
